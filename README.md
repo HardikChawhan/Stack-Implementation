@@ -108,6 +108,9 @@ erase(&myStack);
 erase(&newStack);
 ```
 
+## Video Explanation - Click to watch
+[![Watch the video](https://i.ytimg.com/vi/toRJakeYIKA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBhdj7DzUP47EBA5KxCOI2Nn_dXOA)](https://www.youtube.com/watch?v=toRJakeYIKA)
+
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
